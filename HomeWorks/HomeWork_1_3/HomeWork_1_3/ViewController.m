@@ -63,8 +63,7 @@
 
 - (void)clickCloseBtn:(id)sender
 {
-    // TODO : hint-> dismissViewControllerAnimated:
-	[self dismissViewControllerAnimated:YES completion:nil];
+    [self dismissViewControllerAnimated:YES completion:nil];
 }
 
 @end
