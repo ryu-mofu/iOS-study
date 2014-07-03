@@ -84,7 +84,7 @@ static CGFloat const kAnimationDuration = 0.5;
                      }
                      completion:^(BOOL finished) {
                              [self installZoomView];
-                             self.isZooming = NO;                         
+                             self.isZooming = NO;
                      }];
 }
 
